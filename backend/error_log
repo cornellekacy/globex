@@ -1,0 +1,12 @@
+[07-Sep-2020 10:27:36 America/New_York] PHP Notice:  Undefined index: lon in /home/medidazu/globexshippinglogistics.com/backend/new_tracking.php on line 64
+[07-Sep-2020 10:27:36 America/New_York] PHP Notice:  Undefined index: lat in /home/medidazu/globexshippinglogistics.com/backend/new_tracking.php on line 65
+[07-Sep-2020 10:32:15 America/New_York] PHP Notice:  Undefined index: lon in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 61
+[07-Sep-2020 10:32:15 America/New_York] PHP Notice:  Undefined index: lat in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 62
+[11-Sep-2020 12:09:22 America/New_York] PHP Notice:  Undefined index: lon in /home/medidazu/globexshippinglogistics.com/backend/new_tracking.php on line 64
+[11-Sep-2020 12:09:22 America/New_York] PHP Notice:  Undefined index: lat in /home/medidazu/globexshippinglogistics.com/backend/new_tracking.php on line 65
+[11-Sep-2020 16:52:50 America/New_York] PHP Notice:  Undefined index: lon in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 61
+[11-Sep-2020 16:52:50 America/New_York] PHP Notice:  Undefined index: lat in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 62
+[11-Sep-2020 16:56:49 America/New_York] PHP Notice:  Undefined index: lon in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 61
+[11-Sep-2020 16:56:49 America/New_York] PHP Notice:  Undefined index: lat in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 62
+[11-Sep-2020 16:57:08 America/New_York] PHP Notice:  Undefined index: lon in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 61
+[11-Sep-2020 16:57:08 America/New_York] PHP Notice:  Undefined index: lat in /home/medidazu/globexshippinglogistics.com/backend/edit_tracking.php on line 62
